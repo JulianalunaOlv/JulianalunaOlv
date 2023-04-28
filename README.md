@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @JulianalunaOlv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋Oi, eu sou @JulianalunaOlv, estou há pouco mais de 4 anos no mundo da Tecnologia
+👀Estou interessada em crescer profissionalmente com foco na área da programação
+🌱Atualmente estou aprendendo HTML5 e CSS3 no site do Curso em Video do professor Gustavo Guanabara
+💞️Procuro colaborar em novos projetos como Frontend em minha atual coloação profissional
+📫Caso se interesse em saber mais sobre mim, basta acessar o meu perfil no linkedln clicando no link abaixo
 
-<!---
-JulianalunaOlv/JulianalunaOlv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Linkedln : https://www.linkedin.com/in/ju-luna/
