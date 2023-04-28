@@ -4,4 +4,3 @@
 💞️ Procuro colaborar em novos projetos como Frontend em minha atual colocação profissional  <br>
 📫 Caso se interesse em saber mais sobre mim, basta acessar o meu perfil no linkedln clicando no link abaixo:  <br>
 
-🔗 Linkedln : https://www.linkedin.com/in/ju-luna/
