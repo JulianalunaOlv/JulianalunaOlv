@@ -6,5 +6,5 @@
 
 ♥ Muito obrigada!
 
-Projetos de estudo do curso de HTML5 e CSS3 do Curso em vídeo!
-<a href="https://julianalunaolv.github.io/projeto1/">Executar projeto 1!</a>
+📘 Listagem dos projetos realizados para estudo  de  criação de sites em  HTML5 e CSS3. <br>
+<a href="https://julianalunaolv.github.io/projeto1/" target="_blank">Executar projeto 1!</a>
