@@ -5,6 +5,8 @@
 📫 Caso se interesse em saber mais sobre mim, basta acessar o meu perfil no linkedln.
 
 ♥ Muito obrigada!
+ 
+📘 Listagem dos projetos realizados para estudo de criação de sites em HTML5 e CSS3. < br  > <br> 
 
-📘 Listagem dos projetos realizados para estudo  de  criação de sites em  HTML5 e CSS3. <br>
-<a href="https://julianalunaolv.github.io/projeto1/" target="_blank">Executar projeto 1!</a>
+👩🏻‍💻 < a  href = " https://julianalunaolv.github.io/projeto1/ "  target = "_blank" > Executar projeto 1! </a>     
+ 
