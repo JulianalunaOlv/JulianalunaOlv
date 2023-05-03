@@ -6,5 +6,6 @@
 -- -----------------------------------------------------------------------------------------------/ ♥  <br>
 📘 Listagem dos projetos realizados para estudo de criação de sites em HTML5 e CSS3. 
 
-👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto1/" target="_blank">Executar projeto 1!</a>     
- 
+👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto1/" target="_blank">Executar projeto 1!</a>   
+
+👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto2/" target="_blank">Executar projeto 2!</a>
