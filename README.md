@@ -4,12 +4,6 @@
 💞️ Procuro colaborar em novos projetos como Frontend em minha atual colocação profissional  <br>
 📫 Caso se interesse em saber mais sobre mim, basta acessar o meu perfil no linkedln . <br>
 -- -----------------------------------------------------------------------------------------------/ ♥  <br>
-📘 Listagem dos projetos realizados para estudo de criação de sites em HTML5 e CSS3. 
-
-👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto1/" target="_blank">Executar projeto 1!</a>   
-
-👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto2/" target="_blank">Executar projeto 2!</a>
-
-👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto3/" target="_blank">Executar projeto 3!</a>
-
-👩🏻‍💻 <a href="https://julianalunaolv.github.io/projeto4/" target="_blank">Executar projeto 4!</a>
+📘 Listagem dos projetos realizados para estudo de criação de sites em HTML5 e CSS3   < br >
+👩🏻‍💻  Para ver as minhas certificações, experiência de mercado e projetos de estudo <br>
+        <a href="https://julianalunaolv.github.io/projeto1/">Clique aqui! ♥ </a>
