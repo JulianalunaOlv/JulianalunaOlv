@@ -5,4 +5,4 @@
 📫 Caso se interesse em saber mais sobre mim, basta acessar o meu perfil no linkedln . <br>
 -- -----------------------------------------------------------------------------------------------/ ♥  <br>
 📘 👩🏻‍💻 Para ver as minhas certificações, experiência de mercado e projetos de estudo <br>
-        <a href="https://julianalunaolv.github.io/Projetos_bootstrap/">Clique aqui! ♥ </a>
+        <a href="https://julianalunaolv.github.io/Projetos_Bootstrap/">Clique aqui! ♥ </a>
